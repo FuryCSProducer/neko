@@ -1,0 +1,750 @@
+{
+	"plugin_name": "neko",
+	"plugin_scope": "neko",
+	"plugin_exec": "neko.js",
+	"command_map": {
+		"solog": {
+			"hargs": {
+				"vi_VN": "",
+				"en_US": ""
+			},
+			"hdesc": {
+				"vi_VN": "",
+				"en_US": ""
+			},
+			"fscope": "solog",
+			"compatibly": 0
+		},
+		"smug": {
+			"hargs": {
+				"vi_VN": "",
+				"en_US": ""
+			},
+			"hdesc": {
+				"vi_VN": "",
+				"en_US": ""
+			},
+			"fscope": "smug",
+			"compatibly": 0
+		},
+		"feet": {
+			"hargs": {
+				"vi_VN": "",
+				"en_US": ""
+			},
+			"hdesc": {
+				"vi_VN": "",
+				"en_US": ""
+			},
+			"fscope": "feet",
+			"compatibly": 0
+		},
+		"smallboobs": {
+			"hargs": {
+				"vi_VN": "",
+				"en_US": ""
+			},
+			"hdesc": {
+				"vi_VN": "",
+				"en_US": ""
+			},
+			"fscope": "smallboobs",
+			"compatibly": 0
+		},
+		"lewdkemo": {
+			"hargs": {
+				"vi_VN": "",
+				"en_US": ""
+			},
+			"hdesc": {
+				"vi_VN": "",
+				"en_US": ""
+			},
+			"fscope": "lewdkemo",
+			"compatibly": 0
+		},
+		"woof": {
+			"hargs": {
+				"vi_VN": "",
+				"en_US": ""
+			},
+			"hdesc": {
+				"vi_VN": "",
+				"en_US": ""
+			},
+			"fscope": "woof",
+			"compatibly": 0
+		},
+		"gasm": {
+			"hargs": {
+				"vi_VN": "",
+				"en_US": ""
+			},
+			"hdesc": {
+				"vi_VN": "",
+				"en_US": ""
+			},
+			"fscope": "gasm",
+			"compatibly": 0
+		},
+		"solo": {
+			"hargs": {
+				"vi_VN": "",
+				"en_US": ""
+			},
+			"hdesc": {
+				"vi_VN": "",
+				"en_US": ""
+			},
+			"fscope": "solo",
+			"compatibly": 0
+		},
+		"goose": {
+			"hargs": {
+				"vi_VN": "",
+				"en_US": ""
+			},
+			"hdesc": {
+				"vi_VN": "",
+				"en_US": ""
+			},
+			"fscope": "goose",
+			"compatibly": 0
+		},
+		"cuddle": {
+			"hargs": {
+				"vi_VN": "",
+				"en_US": ""
+			},
+			"hdesc": {
+				"vi_VN": "",
+				"en_US": ""
+			},
+			"fscope": "cuddle",
+			"compatibly": 0
+		},
+		"avatar": {
+			"hargs": {
+				"vi_VN": "",
+				"en_US": ""
+			},
+			"hdesc": {
+				"vi_VN": "",
+				"en_US": ""
+			},
+			"fscope": "avatar",
+			"compatibly": 0
+		},
+		"cum": {
+			"hargs": {
+				"vi_VN": "",
+				"en_US": ""
+			},
+			"hdesc": {
+				"vi_VN": "",
+				"en_US": ""
+			},
+			"fscope": "cum",
+			"compatibly": 0
+		},
+        "les": {
+			"hargs": {
+				"vi_VN": "",
+				"en_US": ""
+			},
+			"hdesc": {
+				"vi_VN": "",
+				"en_US": ""
+			},
+			"fscope": "les",
+			"compatibly": 0
+		},
+        "erokemo": {
+			"hargs": {
+				"vi_VN": "",
+				"en_US": ""
+			},
+			"hdesc": {
+				"vi_VN": "",
+				"en_US": ""
+			},
+			"fscope": "erokemo",
+			"compatibly": 0
+		},
+        "bj": {
+			"hargs": {
+				"vi_VN": "",
+				"en_US": ""
+			},
+			"hdesc": {
+				"vi_VN": "",
+				"en_US": ""
+			},
+			"fscope": "bj",
+			"compatibly": 0
+		},
+        "pwankg": {
+			"hargs": {
+				"vi_VN": "",
+				"en_US": ""
+			},
+			"hdesc": {
+				"vi_VN": "",
+				"en_US": ""
+			},
+			"fscope": "pwankg",
+			"compatibly": 0
+		},
+        "ero": {
+			"hargs": {
+				"vi_VN": "",
+				"en_US": ""
+			},
+			"hdesc": {
+				"vi_VN": "",
+				"en_US": ""
+			},
+			"fscope": "ero",
+			"compatibly": 0
+		},
+        "hololewd": {
+			"hargs": {
+				"vi_VN": "",
+				"en_US": ""
+			},
+			"hdesc": {
+				"vi_VN": "",
+				"en_US": ""
+			},
+			"fscope": "hololewd",
+			"compatibly": 0
+		},
+        "pat": {
+			"hargs": {
+				"vi_VN": "",
+				"en_US": ""
+			},
+			"hdesc": {
+				"vi_VN": "",
+				"en_US": ""
+			},
+			"fscope": "pat",
+			"compatibly": 0
+		},
+        "gecg": {
+			"hargs": {
+				"vi_VN": "",
+				"en_US": ""
+			},
+			"hdesc": {
+				"vi_VN": "",
+				"en_US": ""
+			},
+			"fscope": "gecg",
+			"compatibly": 0
+		},
+        "holo": {
+			"hargs": {
+				"vi_VN": "",
+				"en_US": ""
+			},
+			"hdesc": {
+				"vi_VN": "",
+				"en_US": ""
+			},
+			"fscope": "holo",
+			"compatibly": 0
+		},
+        "poke": {
+			"hargs": {
+				"vi_VN": "",
+				"en_US": ""
+			},
+			"hdesc": {
+				"vi_VN": "",
+				"en_US": ""
+			},
+			"fscope": "poke",
+			"compatibly": 0
+		},
+        "feed": {
+			"hargs": {
+				"vi_VN": "",
+				"en_US": ""
+			},
+			"hdesc": {
+				"vi_VN": "",
+				"en_US": ""
+			},
+			"fscope": "feed",
+			"compatibly": 0
+		},
+        "fox_girl": {
+			"hargs": {
+				"vi_VN": "",
+				"en_US": ""
+			},
+			"hdesc": {
+				"vi_VN": "",
+				"en_US": ""
+			},
+			"fscope": "fox_girl",
+			"compatibly": 0
+		},
+        "tits": {
+			"hargs": {
+				"vi_VN": "",
+				"en_US": ""
+			},
+			"hdesc": {
+				"vi_VN": "",
+				"en_US": ""
+			},
+			"fscope": "tits",
+			"compatibly": 0
+		},
+        "nsfw_neko_gif": {
+			"hargs": {
+				"vi_VN": "",
+				"en_US": ""
+			},
+			"hdesc": {
+				"vi_VN": "",
+				"en_US": ""
+			},
+			"fscope": "nsfw_neko_gif",
+			"compatibly": 0
+		},
+        "eroyuri": {
+			"hargs": {
+				"vi_VN": "",
+				"en_US": ""
+			},
+			"hdesc": {
+				"vi_VN": "",
+				"en_US": ""
+			},
+			"fscope": "eroyuri",
+			"compatibly": 0
+		},
+        "holoero": {
+			"hargs": {
+				"vi_VN": "",
+				"en_US": ""
+			},
+			"hdesc": {
+				"vi_VN": "",
+				"en_US": ""
+			},
+			"fscope": "holoero",
+			"compatibly": 0
+		},
+        "pussy": {
+			"hargs": {
+				"vi_VN": "",
+				"en_US": ""
+			},
+			"hdesc": {
+				"vi_VN": "",
+				"en_US": ""
+			},
+			"fscope": "pussy",
+			"compatibly": 0
+		},
+        "Random_hentai_gif": {
+			"hargs": {
+				"vi_VN": "",
+				"en_US": ""
+			},
+			"hdesc": {
+				"vi_VN": "",
+				"en_US": ""
+			},
+			"fscope": "Random_hentai_gif",
+			"compatibly": 0
+		},
+        "lizard": {
+			"hargs": {
+				"vi_VN": "",
+				"en_US": ""
+			},
+			"hdesc": {
+				"vi_VN": "",
+				"en_US": ""
+			},
+			"fscope": "lizard",
+			"compatibly": 0
+		},
+        "yuri_img": {
+			"hargs": {
+				"vi_VN": "",
+				"en_US": ""
+			},
+			"hdesc": {
+				"vi_VN": "",
+				"en_US": ""
+			},
+			"fscope": "yuri_img",
+			"compatibly": 0
+		},
+        "keta": {
+			"hargs": {
+				"vi_VN": "",
+				"en_US": ""
+			},
+			"hdesc": {
+				"vi_VN": "",
+				"en_US": ""
+			},
+			"fscope": "keta",
+			"compatibly": 0
+		},
+        "neko": {
+			"hargs": {
+				"vi_VN": "",
+				"en_US": ""
+			},
+			"hdesc": {
+				"vi_VN": "",
+				"en_US": ""
+			},
+			"fscope": "neko",
+			"compatibly": 0
+		},
+        "hentai": {
+			"hargs": {
+				"vi_VN": "",
+				"en_US": ""
+			},
+			"hdesc": {
+				"vi_VN": "",
+				"en_US": ""
+			},
+			"fscope": "hentai",
+			"compatibly": 0
+		},
+        "feetg": {
+			"hargs": {
+				"vi_VN": "",
+				"en_US": ""
+			},
+			"hdesc": {
+				"vi_VN": "",
+				"en_US": ""
+			},
+			"fscope": "feetg",
+			"compatibly": 0
+		},
+        "eron": {
+			"hargs": {
+				"vi_VN": "",
+				"en_US": ""
+			},
+			"hdesc": {
+				"vi_VN": "",
+				"en_US": ""
+			},
+			"fscope": "eron",
+			"compatibly": 0
+		},
+        "erok": {
+			"hargs": {
+				"vi_VN": "",
+				"en_US": ""
+			},
+			"hdesc": {
+				"vi_VN": "",
+				"en_US": ""
+			},
+			"fscope": "erok",
+			"compatibly": 0
+		},
+        "baka": {
+			"hargs": {
+				"vi_VN": "",
+				"en_US": ""
+			},
+			"hdesc": {
+				"vi_VN": "",
+				"en_US": ""
+			},
+			"fscope": "baka",
+			"compatibly": 0
+		},
+        "kemonomimi": {
+			"hargs": {
+				"vi_VN": "",
+				"en_US": ""
+			},
+			"hdesc": {
+				"vi_VN": "",
+				"en_US": ""
+			},
+			"fscope": "kemonomimi",
+			"compatibly": 0
+		},
+        "hug": {
+			"hargs": {
+				"vi_VN": "",
+				"en_US": ""
+			},
+			"hdesc": {
+				"vi_VN": "",
+				"en_US": ""
+			},
+			"fscope": "hug",
+			"compatibly": 0
+		},
+        "cum_jpg": {
+			"hargs": {
+				"vi_VN": "",
+				"en_US": ""
+			},
+			"hdesc": {
+				"vi_VN": "",
+				"en_US": ""
+			},
+			"fscope": "cum_jpg",
+			"compatibly": 0
+		},
+        "nsfw_avatar": {
+			"hargs": {
+				"vi_VN": "",
+				"en_US": ""
+			},
+			"hdesc": {
+				"vi_VN": "",
+				"en_US": ""
+			},
+			"fscope": "nsfw_avatar",
+			"compatibly": 0
+		},
+        "erofeet": {
+			"hargs": {
+				"vi_VN": "",
+				"en_US": ""
+			},
+			"hdesc": {
+				"vi_VN": "",
+				"en_US": ""
+			},
+			"fscope": "erofeet",
+			"compatibly": 0
+		},
+        "meow": {
+			"hargs": {
+				"vi_VN": "",
+				"en_US": ""
+			},
+			"hdesc": {
+				"vi_VN": "",
+				"en_US": ""
+			},
+			"fscope": "meow",
+			"compatibly": 0
+		},
+        "kiss": {
+			"hargs": {
+				"vi_VN": "",
+				"en_US": ""
+			},
+			"hdesc": {
+				"vi_VN": "",
+				"en_US": ""
+			},
+			"fscope": "kiss",
+			"compatibly": 0
+		},
+        "tickle": {
+			"hargs": {
+				"vi_VN": "",
+				"en_US": ""
+			},
+			"hdesc": {
+				"vi_VN": "",
+				"en_US": ""
+			},
+			"fscope": "tickle",
+			"compatibly": 0
+		},
+        "blowjob": {
+			"hargs": {
+				"vi_VN": "",
+				"en_US": ""
+			},
+			"hdesc": {
+				"vi_VN": "",
+				"en_US": ""
+			},
+			"fscope": "blowjob",
+			"compatibly": 0
+		},
+        "kuni": {
+			"hargs": {
+				"vi_VN": "",
+				"en_US": ""
+			},
+			"hdesc": {
+				"vi_VN": "",
+				"en_US": ""
+			},
+			"fscope": "kuni",
+			"compatibly": 0
+		},
+        "classic": {
+			"hargs": {
+				"vi_VN": "",
+				"en_US": ""
+			},
+			"hdesc": {
+				"vi_VN": "",
+				"en_US": ""
+			},
+			"fscope": "classic",
+			"compatibly": 0
+		},
+        "femdom": {
+			"hargs": {
+				"vi_VN": "",
+				"en_US": ""
+			},
+			"hdesc": {
+				"vi_VN": "",
+				"en_US": ""
+			},
+			"fscope": "femdom",
+			"compatibly": 0
+		},
+        "boobs": {
+			"hargs": {
+				"vi_VN": "",
+				"en_US": ""
+			},
+			"hdesc": {
+				"vi_VN": "",
+				"en_US": ""
+			},
+			"fscope": "boobs",
+			"compatibly": 0
+		},
+        "trap": {
+			"hargs": {
+				"vi_VN": "",
+				"en_US": ""
+			},
+			"hdesc": {
+				"vi_VN": "",
+				"en_US": ""
+			},
+			"fscope": "trap",
+			"compatibly": 0
+		},
+        "lewd": {
+			"hargs": {
+				"vi_VN": "",
+				"en_US": ""
+			},
+			"hdesc": {
+				"vi_VN": "",
+				"en_US": ""
+			},
+			"fscope": "lewd",
+			"compatibly": 0
+		},
+        "pussy_jpg": {
+			"hargs": {
+				"vi_VN": "",
+				"en_US": ""
+			},
+			"hdesc": {
+				"vi_VN": "",
+				"en_US": ""
+			},
+			"fscope": "pussy_jpg",
+			"compatibly": 0
+		},
+        "anal": {
+			"hargs": {
+				"vi_VN": "",
+				"en_US": ""
+			},
+			"hdesc": {
+				"vi_VN": "",
+				"en_US": ""
+			},
+			"fscope": "anal",
+			"compatibly": 0
+		},
+        "kissgif": {
+			"hargs": {
+				"vi_VN": "",
+				"en_US": ""
+			},
+			"hdesc": {
+				"vi_VN": "",
+				"en_US": ""
+			},
+			"fscope": "kissgif",
+			"compatibly": 0
+		},
+        "huggif": {
+			"hargs": {
+				"vi_VN": "",
+				"en_US": ""
+			},
+			"hdesc": {
+				"vi_VN": "",
+				"en_US": ""
+			},
+			"fscope": "huggif",
+			"compatibly": 0
+		},
+        "futanari": {
+			"hargs": {
+				"vi_VN": "",
+				"en_US": ""
+			},
+			"hdesc": {
+				"vi_VN": "",
+				"en_US": ""
+			},
+			"fscope": "futanari",
+			"compatibly": 0
+		},
+        "ngif": {
+			"hargs": {
+				"vi_VN": "",
+				"en_US": ""
+			},
+			"hdesc": {
+				"vi_VN": "",
+				"en_US": ""
+			},
+			"fscope": "ngif",
+			"compatibly": 0
+		},
+        "lewdk": {
+			"hargs": {
+				"vi_VN": "",
+				"en_US": ""
+			},
+			"hdesc": {
+				"vi_VN": "",
+				"en_US": ""
+			},
+			"fscope": "lewdk",
+			"compatibly": 0
+		}
+	},  
+    
+	"author": "FuryCS",
+	"version": "0.1.0",
+	"node_depends": {
+		"node-fetch": "*",
+		"path": "*",
+		"wait-for-stuff": "*",
+		"stream-buffers": "*"
+	},
+	"file_map": {},
+	"complied_for": "0.5.0"
+}
